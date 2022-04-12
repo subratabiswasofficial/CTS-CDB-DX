@@ -1,0 +1,82 @@
+[
+  {
+    "Name": "Reshmi",
+    "ID": "0022",
+    "Gender": "Female",
+    "Skills": ["NodeJS", "Bootstrap"],
+    "Project": "Cognizant Internal",
+    "HCM": "Alex"
+  },
+  {
+    "Name": "Manoj",
+    "ID": "0095",
+    "Gender": "Male",
+    "Skills": ["NodeJS", "Bootstrap"],
+    "Project": "Cognizant Internal",
+    "HCM": "Alex"
+  },
+  {
+    "Name": "Nikita",
+    "ID": "0035",
+    "Gender": "Female",
+    "Skills": ["NodeJS"],
+    "Project": "Cognizant Internal",
+    "HCM": "Alex"
+  },
+  {
+    "Name": "Alok",
+    "ID": "0102",
+    "Gender": "Male",
+    "Skills": ["HTML", "Bootstrap"],
+    "Project": "Cognizant Internal",
+    "HCM": "Alex"
+  },
+  {
+    "Name": "Rakhi",
+    "ID": "0012",
+    "Gender": "Female",
+    "Skills": ["NodeJS", "Bootstrap"],
+    "Project": "Cognizant Internal",
+    "HCM": "Alex"
+  },
+  {
+    "Name": "Mohant",
+    "ID": "0045",
+    "Gender": "Male",
+    "Skills": ["ReactJs"],
+    "Project": "Cognizant Internal",
+    "HCM": "Alex"
+  },
+  {
+    "Name": "Neha",
+    "ID": "0025",
+    "Gender": "Female",
+    "Skills": ["SASS", "Bootstrap"],
+    "Project": "Cognizant Internal",
+    "HCM": "Alex"
+  },
+  {
+    "Name": "Akash",
+    "ID": "0062",
+    "Gender": "Male",
+    "Skills": ["ReactJs", "NextJs"],
+    "Project": "Cognizant Internal",
+    "HCM": "Alex"
+  },
+  {
+    "Name": "Srinivas",
+    "ID": "0055",
+    "Gender": "Male",
+    "Skills": ["NodeJs", "AJAX"],
+    "Project": "Cognizant Internal",
+    "HCM": "Alex"
+  },
+  {
+    "Name": "Manojit",
+    "ID": "0078",
+    "Gender": "Male",
+    "Skills": ["HTML", "CSS"],
+    "Project": "Cognizant Internal",
+    "HCM": "Alex"
+  }
+]
